@@ -53,6 +53,7 @@ const seedDatabase = async () => {
       category: apiProduct.category,
     }));
 
+    
     await Product.insertMany(productsToSave);
     console.log('Database seeded successfully with 10 products!');
   } catch (error) {
