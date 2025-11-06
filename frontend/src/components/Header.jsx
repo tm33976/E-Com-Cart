@@ -11,7 +11,7 @@ const Header = () => {
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">
       <nav className="container mx-auto max-w-7xl px-4 py-4 flex justify-between items-center">
-        {/* Logo/Home link */}
+        {/* Logo/Home link */} 
         <Link to="/" className="text-2xl font-bold text-gray-800">
           Vibe Commerce
         </Link>
