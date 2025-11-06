@@ -53,7 +53,7 @@ const seedDatabase = async () => {
       category: apiProduct.category,
     }));
 
-    
+
     await Product.insertMany(productsToSave);
     console.log('Database seeded successfully with 10 products!');
   } catch (error) {
@@ -63,5 +63,5 @@ const seedDatabase = async () => {
 
 //  Start The Server 
 app.listen(PORT, () => {
-  console.log(`Backend server is running on http://localhost:${PORT}`);
+  console.log(` Backend server is running on http://localhost:${PORT}`);
 });
