@@ -149,3 +149,13 @@ The backend server runs on `http://localhost:3001`. You can use a tool like Post
           "total": 109.95 
         }
         ```
+
+---
+
+## 📄 Author
+
+👨‍💻 **Tushar Mishra**  
+📧 tm3390782@gmail.com  
+🌐 [Portfolio](https://tushar-mishra-cse-portfolio.vercel.app) | [GitHub](https://github.com/tm33976) | [LinkedIn](https://www.linkedin.com/in/tushar-mishra-5253ab311/)
+
+---
