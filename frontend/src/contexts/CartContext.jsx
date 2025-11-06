@@ -12,6 +12,7 @@ export const useCart = () => {
   return useContext(CartContext);
 };
 
+
 // This is the provider component that will wrap our app
 export const CartProvider = ({ children }) => {
   const [cartItems, setCartItems] = useState([]);
