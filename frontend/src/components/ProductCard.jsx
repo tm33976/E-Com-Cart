@@ -10,6 +10,7 @@ const ProductCard = ({ product }) => {
     // We add 1 quantity of this product
     addToCart(product, 1);
   };
+  
 
   return (
     <div className="flex flex-col rounded-lg border border-gray-200 bg-white shadow-sm overflow-hidden">
