@@ -7,8 +7,9 @@ const productSchema = new mongoose.Schema({
   description: { type: String, required: true },
   image: { type: String, required: true },
   category: { type: String }
-}, {
-  timestamps: true // Automatically adds "createdAt" and "updatedAt"
+}, 
+{
+  timestamps: true 
 });
 
 const Product = mongoose.model('Product', productSchema);
