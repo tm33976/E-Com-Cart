@@ -15,6 +15,7 @@ const CartPage = () => {
   const [receipt, setReceipt] = useState(null);
   const [isCheckingOut, setIsCheckingOut] = useState(false);
 
+  
   // Handle text changes in the form
   const handleUserInfoChange = (e) => {
     const { name, value } = e.target;
