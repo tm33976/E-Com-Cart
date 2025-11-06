@@ -15,6 +15,7 @@ const cartItemSchema = new Schema({
     ref: 'Product', // This 'ref' tells Mongoose to look at the 'Product' model
     required: true 
   },
+  
   quantity: 
   { 
     type: Number, 
