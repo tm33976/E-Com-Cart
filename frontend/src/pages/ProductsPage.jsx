@@ -5,9 +5,9 @@ import ProductCard from '../components/ProductCard';
 const API_URL = import.meta.env.VITE_API_URL;
 
 const ProductsPage = () => {
-  const [products, setProducts] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const[products, setProducts] = useState([]);
+  const[loading, setLoading] = useState(true);
+  const[error, setError] = useState(null);
 
   useEffect(() => {
     // This effect runs once when the component mounts
@@ -47,7 +47,7 @@ const ProductsPage = () => {
           <ProductCard key={product._id} product={product} />
         ))}
       </div>
-      
+
     </div>
   );
 };
