@@ -14,6 +14,7 @@ function App() {
       
       {/* The Header is on every page */}
       <Header />
+      
 
       {/* Main content area */}
       <main className="container mx-auto p-4 max-w-7xl">
