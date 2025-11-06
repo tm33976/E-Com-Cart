@@ -7,7 +7,7 @@ const router = express.Router();
 // A simple mock user ID for our (BONUS) persistent cart
 const MOCK_USER_ID = 'mockUser123';
 
-//  Product API
+// Product API
 
 // GET /api/products
 // Gets all products from the database
