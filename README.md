@@ -24,7 +24,7 @@ The app allows users to view products, add them to a cart, view their cart, and 
 * **Frontend:** React, Vite, Tailwind CSS, React Router, Axios, Font Awesome
 * **Backend:** Node.js, Express.js
 * **Database:** MongoDB Atlas (using Mongoose)
-* **Deployment:** Designed for a GitHub repository (no live hosting).
+
 
 ---
 
