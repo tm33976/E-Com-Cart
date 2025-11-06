@@ -41,8 +41,8 @@ This project is a monorepo containing the `backend` and `frontend` in one direct
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd vibe-commerce-cart
+git clone https://github.com/tm33976/E-Com-Cart.git
+cd E-Com-Cart
 ```
 
 ### 2. Backend Setup (`/backend`)
