@@ -5,6 +5,16 @@ This is a full-stack mock e-commerce shopping cart application built for the Vib
 The app allows users to view products, add them to a cart, view their cart, and "check out" with a mock receipt.
 
 
+## 📸 Screenshots
+
+Here's a look at the application in action.
+
+**Product Listing Page**
+![Product Listing Page](Demo.png)
+
+
+
+
 ---
 
 ## 🚀 Features
