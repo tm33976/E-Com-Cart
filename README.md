@@ -4,8 +4,6 @@ This is a full-stack mock e-commerce shopping cart application built for the Vib
 
 The app allows users to view products, add them to a cart, view their cart, and "check out" with a mock receipt.
 
-**Live Demo:** (Link to your 1-2 minute Loom/YouTube demo video here)
-**Screenshots:** (Add 2-3 screenshots: Product Page, Cart Page, Checkout Modal)
 
 ---
 
