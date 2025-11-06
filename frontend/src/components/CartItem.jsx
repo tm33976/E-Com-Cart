@@ -12,6 +12,7 @@ const CartItem = ({ item }) => {
     return null; 
   }
   
+  
   const { _id: cartItemId, product, quantity } = item;
 
   //  Handlers for quantity buttons
