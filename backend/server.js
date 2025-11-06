@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3001;
 
-// Middlewares
+// Middleware
 // These help our server understand JSON and talk to our frontend
 app.use(cors()); // Allows our frontend to make requests to this backend
 app.use(express.json()); // Parses incoming JSON requests
